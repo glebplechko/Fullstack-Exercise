@@ -9,7 +9,7 @@ const Hero = () => {
         <div className="logo">
           <img src="/cloud-rain.svg" alt=""/>
         </div>
-        <h1>Simons first podcast about fullstack development.</h1>
+        <h1>My first podcast about fullstack development.</h1>
         <Button>Listen now</Button>
       </div>
       <div className="hero-image">
